@@ -10,7 +10,7 @@ Programmers:
     Partner: N/A (working individually)
 
 Course: CPSC-60500-004
-Date completed: TBD
+Date completed: 11/15/2025
 
 Program description:
     This program interacts with the user to search for "near misses" of the
